@@ -14,4 +14,8 @@ public class Marriage {
 		
 	}
 	
+	static {
+		System.out.println("Eating & Lunch");
+	}
+	
 }
